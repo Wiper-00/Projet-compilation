@@ -5,7 +5,7 @@
 Introduction :
 
 
- Nous avons conçus un programme qui permet l'analyse lexicale, syntaxique et sémantique d'un fichier source représentant un programme d’un langage inventé. Pour ce faire, nous avons utilisé le langage java. Nous allons donner dans se petit rapport un aperçus sur la réalisation de ce pseudo compilateur.
+ Nous avons conçus un programme qui permet l'analyse lexicale, syntaxique et sémantique d'un fichier source représentant un programme d’un language inventé. Pour ce faire, nous avons utilisé le langage java. Nous allons donner dans se petit rapport un aperçus sur la réalisation de ce pseudo compilateur.
  
  Pour la réalisation de ce projet nous avons adopté le plan suivant :
  
