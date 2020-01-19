@@ -27,7 +27,8 @@ synt()-> Start_Program S() End_Program
 S()->LD() LI()
 LD()->Int_Number : Lid() / Real_Number : Lid() / ξ
 Lid()->ID, Lid()/ ID ;;
-Donc durant l’analyse syntaxique notre programme affiche des messages d’erreurs correspondants selon l’endroit où l’erreur est détectée.       
+Donc durant l’analyse syntaxique notre programme affiche des messages d’erreurs correspondants selon l’endroit où l’erreur est détectée.    
+
 4.	Fonction sémantique
 
 L’analyse sémantique est faite dans la même passe que l’analyse syntaxique en introduisant des fonctions spéciales dans le membre droit des règles de la grammaire assurant des calcules sémantiques et des vérifications des erreurs sémantiques. Nous avons particulièrement augmenté (en vert dans les règles suivantes) le membre droit des règles suivantes pour calculer le nombre d’identifiants d’une déclaration :
